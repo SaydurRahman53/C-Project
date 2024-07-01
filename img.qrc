@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Register.jpg</file>
+        <file>BG.jpg</file>
+        <file>BG2.jpg</file>
+        <file>Ambulance.jpg</file>
+        <file>Emergency.jpg</file>
+        <file>doctor.jpg</file>
+        <file>Doc A.png</file>
+        <file>Doc B.png</file>
+        <file>Doc C.png</file>
+        <file>Doc D.png</file>
+        <file>Doc E.png</file>
+    </qresource>
+</RCC>
